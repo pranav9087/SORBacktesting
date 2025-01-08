@@ -34,5 +34,5 @@ This repository contains a Python-based backtesting framework for a Smart Order 
 ## Contributing
 Contributions are welcome! Open an issue or submit a pull request to discuss improvements, new features, or bug fixes.
 
----
+
 Feel free to reach out with any questions or feedback!
